@@ -1,0 +1,15 @@
+a) Everything up-to-date
+Branch master set up to track remote branch master from origin.
+b) 10, git rev-list --all --count
+c) Tue Oct 10 14:55:29 2017, git log --name-status
+d) e46b6d1b4c0e2c7a0733014bb15346a1c2e261c7 
+e) A branch represents an independent line of development.
+Branches serve as an abstraction for the edit/stage/commit
+process.
+f) git status displays paths that have differences between the index file and the current HEAD commit, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git.
+git log just shows the commit logs.
+g) git log --follow Weapon.h
+h) git log --grep="file"
+i) Inheritance- a derived class shares all of the data and  functionality found in the base class. 
+Polymorphism- the use of the base pointer to child object property, along with virtual functions and funciton overriding to make the appropriate calls.
+Encapsulation- a language mechanism for restricting direct access to some of the object's components.
