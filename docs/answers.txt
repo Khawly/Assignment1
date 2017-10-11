@@ -13,3 +13,5 @@ h) git log --grep="file"
 i) Inheritance- a derived class shares all of the data and  functionality found in the base class. 
 Polymorphism- the use of the base pointer to child object property, along with virtual functions and funciton overriding to make the appropriate calls.
 Encapsulation- a language mechanism for restricting direct access to some of the object's components.
+
+7. The prototype is using encapsulation because the function Weaponfactory() and object instance are both in the private section of the class declaration. The protoype is not using polymorphism because there is no base class.
